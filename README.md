@@ -15,5 +15,8 @@ Features
 --> Sends notification to user whenever there is new link posted
 
 
+--> apk available on sourceforge
+
+
 
 New Ideas are invited
