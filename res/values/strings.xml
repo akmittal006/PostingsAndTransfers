@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Postings and transfers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Refresh</string>
+    <string name="title_activity_whats_new">Whats New</string>
+    <string name="new_label">NEW</string>
+
+</resources>
